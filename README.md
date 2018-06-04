@@ -2,10 +2,10 @@
 
 
 
-just clone and open the reinforcement_learning_pong_keras_policy_gradients.ipynb file
+just clone and open the reinforcement_learning_pong_keras_policy_gradients.ipynb file for step by step tutorial
 [or click here to view on github](/reinforcement_learning_pong_keras_policy_gradients.ipynb)
 
-i trained a simple 200 hidden neuron network and a convolutional model.
+we train a simple 200 hidden neuron network and a convolutional model.
 
 sample gif playing of simple network:
 
