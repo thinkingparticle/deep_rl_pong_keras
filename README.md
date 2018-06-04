@@ -7,20 +7,14 @@ just clone and open the reinforcement_learning_pong_keras_policy_gradients.ipynb
 
 i trained a simple 200 hidden neuron network and a convolutional model.
 
-sample gif playing of simple network.
+sample gif playing of simple network:
+
 ![](simple_network.gif)
 
 
-video of simple network playing a game (click on image to view in youtube):
+video of simple network playing a game (https://www.youtube.com/watch?v=Ol163jSlEPI): 
 
-
-[![video of trained simple network playing a game](https://img.youtube.com/vi/Ol163jSlEPI/0.jpg)
-](https://www.youtube.com/watch?v=Ol163jSlEPI)
-
-video of simple network playing a game (click on image to view in youtube):
-
-[![video of trained simple network playing a game](https://img.youtube.com/vi/1goeHG_hsUo/0.jpg)
-](https://www.youtube.com/watch?v=1goeHG_hsUo)
+video of simple network playing a game (https://www.youtube.com/watch?v=1goeHG_hsUo):
 
 
 In this short project we are gonna **train a neural network to play Pong game** using a reinforcement learning algorithm (**Policy Gradients Method - REINFORCE**). 
