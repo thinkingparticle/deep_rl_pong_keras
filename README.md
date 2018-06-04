@@ -1,6 +1,12 @@
 # Deep Reinforcement Learning with Keras
 
-**just open the reinforcement_learning_pong_keras_policy_gradients.ipynb file**
+
+
+just clone and open the reinforcement_learning_pong_keras_policy_gradients.ipynb file
+[or click here to view on github](/reinforcement_learning_pong_keras_policy_gradients.ipynb)
+
+![](images/simple_network.gif)
+
 
 In this short project we are gonna **train a neural network to play Pong game** using a reinforcement learning algorithm (**Policy Gradients Method - REINFORCE**). 
 
