@@ -1,8 +1,6 @@
-# deep_rl_pong_keras
-Deep Reinforcement Learning Policy Gradients Method - Pong game - Keras
-
-
 # Deep Reinforcement Learning with Keras
+
+**just open the reinforcement_learning_pong_keras_policy_gradients.ipynb file**
 
 In this short project we are gonna **train a neural network to play Pong game** using a reinforcement learning algorithm (**Policy Gradients Method - REINFORCE**). 
 
@@ -10,3 +8,5 @@ Considering **limited time** and for **learning purposes** I am **not aiming for
 
 prerequisites:
 familiarity with neural networks,supervised learning, tensorflow and keras, openai gym
+
+
